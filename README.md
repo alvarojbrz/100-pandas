@@ -3,7 +3,7 @@
 ### This notebook is inspired by 100 Pandas Puzzles, from Alex Riley
 ### [Puzzles Source notebook](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb)
 
-Here, I come up with my on answears to the some very interesting problems using primarly Pandas, Data Cleaning and Data Visualization.
+Here, I come up with my own answears to the some very interesting problems using primarly Pandas, Data Cleaning and Data Visualization.
 
 The exercises are loosely divided in sections. Each section has a difficulty rating; these ratings are subjective, of course, but should be a seen as a rough guide as to how elaborate the required solution needs to be.
 
